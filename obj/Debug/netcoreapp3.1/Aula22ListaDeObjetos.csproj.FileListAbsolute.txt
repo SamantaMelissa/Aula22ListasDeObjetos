@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula22ListaDeObjetos.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula22ListaDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula22ListaDeObjetos.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula22ListaDeObjetos.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\bin\Debug\netcoreapp3.1\Aula22ListaDeObjetos.exe
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\bin\Debug\netcoreapp3.1\Aula22ListaDeObjetos.deps.json
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\bin\Debug\netcoreapp3.1\Aula22ListaDeObjetos.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\bin\Debug\netcoreapp3.1\Aula22ListaDeObjetos.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\bin\Debug\netcoreapp3.1\Aula22ListaDeObjetos.dll
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\bin\Debug\netcoreapp3.1\Aula22ListaDeObjetos.pdb
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula22ListaDeObjetos.dll
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula22ListaDeObjetos.pdb
+C:\Users\saman\OneDrive\Documentos\Aula22ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula22ListaDeObjetos.genruntimeconfig.cache
